@@ -5,9 +5,7 @@
 ## Demo
 
 <p align="center">
-    <video width="700" alt="demo">
-        <source src="https://github.com/dorothearos/avocado-dash/blob/main/demo/avocado.mp4" type="video/mp4">
-    </video>
+    <img width="700" src="assets/avocado.gif" alt="demo">
 </p>
 
 ## Setup 
