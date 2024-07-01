@@ -6,7 +6,7 @@
 
 <p align="center">
     <video width="700" alt="demo">
-        <source src="/demo/avocado.mp4" type="video/mp4">
+        <source src="https://github.com/dorothearos/avocado-dash/blob/main/demo/avocado.mp4" type="video/mp4">
     </video>
 </p>
 
@@ -35,4 +35,4 @@ python app.py
 ## License
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-This project is [MIT](https://github.com/dorothearos/avocado-dash/blob/master/README.md) licensed.
+This project is [MIT](https://github.com/dorothearos/avocado-dash/blob/main/README.md) licensed.
